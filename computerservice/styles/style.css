@@ -87,7 +87,7 @@ main section img {
 }
 
 #msg {
-    order: -1;
+    order: 2;
     background-color:#98bdd7;
     color: white;
     line-height: 1.5em;
