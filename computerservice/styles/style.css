@@ -71,12 +71,12 @@ main section img {
 
 
 .logo-img {
-    width: 400px;
+    width: 600px;
     grid-area: 2/2/5/5;
 }
 
 .monitor-img {
-    width: 600px;
+    width: 800px;
     grid-area: 2/6/5/10;
     
 }
@@ -91,7 +91,7 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 6/3/4/5;
+    grid-area: 6/3/4/5;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
