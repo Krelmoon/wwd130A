@@ -92,12 +92,12 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 7/2/7/7;
+    grid-area: 7/2/7/6;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
 .order {
-    grid-area: 8/3/7/7;
+    grid-area: 8/4/7/5;
     margin-top: 125px;
 }
 
