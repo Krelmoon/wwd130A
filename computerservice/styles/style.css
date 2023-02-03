@@ -72,20 +72,18 @@ main section img {
 
 .logo-img {
     width: 400px;
-    grid-column: 2/5;
-    grid-row: 2/5;
+    grid-area: 2/2/5/5;
 }
 
 .monitor-img {
-    width: 400px;
-    grid-column: 6/10;
-    grid-row: 2/5;
+    width: 600px;
+    grid-area: 2/6/5/10;
+    
 }
 
 .wifi-img {
     width: 400px;
-    grid-column: 7/9;
-    grid-row: 6/10;
+    grid-area: 6/7/10/9;
 }
 
 #msg {
@@ -93,8 +91,7 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-column: 3/5;
-    grid-row: 6/10;
+    grid-column: 6/3/4/5;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
@@ -118,7 +115,7 @@ footer p a:hover {
 }
 
 footer a {
-    color: #000;
+    color: white;
     text-decoration: none;
 }
 
