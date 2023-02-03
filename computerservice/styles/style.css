@@ -86,13 +86,13 @@ main section img {
     grid-area: 7/7/10/9;
 }
 
-#msg {
+.msg {
     order: 2;
     background-color:#98bdd7;
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 7/3/10/9;
+    grid-area: 8/4/11/10;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
