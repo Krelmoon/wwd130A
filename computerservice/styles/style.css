@@ -93,7 +93,7 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 7/2/8/6;
+    grid-area: 7/2/7/6;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
@@ -107,7 +107,7 @@ footer {
     background-color: #e95f35;
     color: white;
     padding: 25px 50px;
-    margin-top: 100px;
+    margin-top: 50px;
     display: flex;
     justify-content: space-around;
     align-items: center;
