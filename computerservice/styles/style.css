@@ -92,8 +92,13 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 8/4/11/10;
+    grid-area: 8/3/11/10;
     box-shadow: 5px 5px 10px #512a3d;
+}
+
+.order {
+    grid-area: 9/3/11/10;
+    margin-top: 100px;
 }
 
 
