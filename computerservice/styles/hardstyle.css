@@ -76,14 +76,14 @@ main section img {
 }
 
 .blue-img {
-    width: 400px;
+    width: 600px;
     grid-area: 2/6/5/8;
     
 }
 
 .black-img {
     margin-left: 25px;
-    width: 400px;
+    width: 600px;
     grid-area: 2/8/5/10;
 }
 
@@ -98,7 +98,7 @@ main section img {
 }
 
 .order {
-    grid-area: 8/4/9/5;
+    grid-area: 7/4/8/5;
     margin-top: 125px;
 }
 
