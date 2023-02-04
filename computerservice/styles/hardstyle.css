@@ -71,20 +71,21 @@ main section img {
 
 
 .laptop-img {
-    width: 600px;
+    width: 400px;
     grid-area: 2/2/5/5;
 }
 
 .blue-img {
-    width: 600px;
+    margin-left: 25px;
+    width: 400px;
     grid-area: 2/6/5/8;
     
 }
 
 .black-img {
     margin-left: 25px;
-    width: 600px;
-    grid-area: 2/8/5/10;
+    width: 400px;
+    grid-area: 2/8/5/9;
 }
 
 .msg {
@@ -93,12 +94,12 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 7/2/8/10;
+    grid-area: 7/2/8/9;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
 .order {
-    grid-area: 7/4/8/5;
+    grid-area: 7/5/8/6;
     margin-top: 125px;
 }
 

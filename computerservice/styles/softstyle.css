@@ -84,7 +84,7 @@ main section img {
 .linux-img {
     margin-top: 25px;
     width: 400px;
-    grid-area: 5/7/8/9;
+    grid-area: 3/7/5/9;
 }
 
 .msg {
@@ -93,12 +93,12 @@ main section img {
     color: white;
     line-height: 1.5em;
     padding: 35px;
-    grid-area: 7/2/8/6;
+    grid-area: 7/2/8/8;
     box-shadow: 5px 5px 10px #512a3d;
 }
 
 .order {
-    grid-area: 8/4/9/5;
+    grid-area: 7/5/8/6;
     margin-top: 125px;
 }
 
