@@ -84,7 +84,7 @@ main section img {
 .linux-img {
     margin-top: 50px;
     width: 400px;
-    grid-area: 3/7/5/9;
+    grid-area: 4/7/5/9;
 }
 
 .msg {
