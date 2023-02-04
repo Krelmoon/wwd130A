@@ -82,7 +82,7 @@ main section img {
 }
 
 .linux-img {
-    margin-top: 25px;
+    margin-top: 50px;
     width: 400px;
     grid-area: 3/7/5/9;
 }
@@ -98,7 +98,7 @@ main section img {
 }
 
 .order {
-    grid-area: 7/5/8/6;
+    grid-area: 7/5/8/7;
     margin-top: 125px;
 }
 
