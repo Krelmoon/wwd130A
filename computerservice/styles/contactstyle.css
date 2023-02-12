@@ -69,6 +69,12 @@ main section img {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
+.contaniner {
+    grid-area: 2/2/8/8;
+}
+
+
+
 footer {
     background-color: #e95f35;
     color: white;
